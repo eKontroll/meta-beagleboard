@@ -730,6 +730,7 @@ SRC_URI += " \
 	file://btrfs/0009-btrfs-add-lz4hc-wrapper-and-enable-it.patch \
 	file://btrfs/0010-btrfs-reduce-duplicate-code-in-lz4_wrapper.c.patch \
 	file://btrfs/0011-btrfs-select-LZ4-HC-libs.patch \
+	file://tty-add-rs485-gpio-rts.patch \
 	file://defconfig \
   file://am335x-pm-firmware.bin \
   file://logo_linux_clut224.ppm \
